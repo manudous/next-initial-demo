@@ -1,4 +1,4 @@
-export const DarkLayout = ({ children }) => {
+export const DarkLayout: React.FC = ({ children }) => {
   return (
     <div
       style={{
